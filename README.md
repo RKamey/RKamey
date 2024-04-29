@@ -1,10 +1,14 @@
-![Header](./github-header.png)
- # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZkZnZxbmF0ZWtjcHIweHNmbHd0ZzQ0ZmI0ZW5icW9qanZpZHdmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYQXByWYLYoTmMGmz8/giphy.gif" width="100"/> Hi 👋, I'm RKamey
+# <img src="astro-profile.png" width="100"/> Hi 👋, I'm RKamey
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=RKamey&label=Profile%20views&color=0e75b6&style=flat" alt="RKamey" /> 
 </p>
 
-I'm a 20-year-old software enthusiast currently studying at Universidad de Colima. I love learning new things and building cool projects. Let's connect and create something awesome together!
+<div style="display: flex; ">
+<p>
+  I'm a 20-year-old software enthusiast currently studying at Universidad de Colima. I love learning new things and building cool projects. Let's connect and create something awesome together!
+</p>
+<img src="daftpunktocat-thomas.gif" width="100" alt="A simple cool gif">
+</div>
 
 # Languages & Tools 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
