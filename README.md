@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4C1D95&center=true&vCenter=true&width=435&lines=Front-End+Developer;Technology+Enthusiast;Simple-Coder" alt="Typing SVG" />
 
   <p>
-    I'm a 20-year-old software enthusiast currently studying at Universidad de Colima. I love learning new things and building cool projects. Let's connect and create something awesome together!
+    I'm a 21-year-old software enthusiast currently studying at Universidad de Colima. I love learning new things and building cool projects. Let's connect and create something awesome together!
   </p>
 
   <img src="daftpunktocat-thomas.gif" width="120" alt="Daftpunktocat Thomas GIF" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,git,github,bootstrap,tailwind,firebase,mysql,mongodb,arduino,figma,netlify&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,tailwind,git,github,nodejs,firebase,mysql,mongodb,express&perline=7" />
   </a>
 </p>
 
@@ -47,6 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKamey&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RKamey&label=Profile%20Views&color=4c1d95&style=for-the-badge" alt="Profile Views" />
-</p>
+[![RKamey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RKamey&theme=react-dark)](https://github.com/RKamey/github-readme-activity-graph)
